@@ -1,0 +1,21 @@
+.navmenu {
+  padding-right: 20px;
+  text-decoration: none;
+  color: #405fc2;
+  font-size: 20px;
+padding-top: 5px;
+margin: 5px;
+
+}
+.brand {
+  text-decoration: none;
+  font-size: 20px;
+  color: #e23636;
+  margin-left: -75px;
+}
+p{
+ padding-top: 20px;
+}
+/* .me-auto{
+  background-color: black;
+} */
